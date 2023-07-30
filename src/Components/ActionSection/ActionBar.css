@@ -1,0 +1,32 @@
+.action-bar {
+    position: absolute;
+    top: 26%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 2;
+  }
+
+  .action-language{
+    display:none;
+  }
+
+  @media (max-width: 768px) {
+    .action-bar-container {
+      top: 50%;
+    }
+  
+    .action-bar {
+      padding: 8px;
+    }
+  
+    .row.g-1 > .col {
+      flex: 1;
+    }
+  }
+
+  @media (min-width: 992px) {
+    .action-language {
+      display: block;
+    }
+  }

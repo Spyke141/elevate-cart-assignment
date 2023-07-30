@@ -1,0 +1,57 @@
+.banner {
+  width: 100%;
+  max-height: 35em;
+  object-fit: cover;
+  z-index: -2;
+  box-sizing: border-box;
+}
+
+.banner-message {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+  font-weight: bolder;
+  top: 35%;
+  color: white;
+  z-index: 0;
+  box-sizing: border-box;
+  position: absolute;
+}
+
+.hero-banner-title {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  top: 10%;
+  z-index: 0;
+  box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+  .banner {
+    max-height: 20em;
+  }
+
+  .banner-message {
+    font-size: medium;
+    top: 50%;
+  }
+
+  .hero-banner-title {
+    font-size: large;
+    top: 5%;
+  }
+}
+
+@media (max-width: 576px) {
+  .banner {
+    max-height: 15em;
+  }
+
+  .banner-message {
+    font-size: small;
+  }
+
+  .hero-banner-title {
+    font-size: medium;
+  }
+
+}

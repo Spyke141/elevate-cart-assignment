@@ -1,0 +1,23 @@
+.nav-shape {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  border-top: 50px solid #252221;
+  border-left: 25px solid transparent;
+  border-right: 25px solid transparent;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.nav-item-container {
+  position: absolute;
+  bottom: 100%;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,20 @@
+.card-top-title {
+  display: flex;
+  justify-content: space-around;
+}
+
+.card-image-container {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+p {
+  display: inline;
+}
+
+.p-card-container{
+  display: flex;
+  flex-wrap: wrap;
+}

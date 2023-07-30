@@ -1,0 +1,16 @@
+.cart-text {
+    display: none;
+  }
+  
+  .cart-btn{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+  }
+
+
+  @media (min-width: 992px) {
+    .large-screen-only {
+      display: inline;
+    }
+  }
