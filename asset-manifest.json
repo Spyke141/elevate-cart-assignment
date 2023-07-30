@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/elevate-cart-assignment/static/css/main.a8cd02ce.css",
+    "main.js": "/elevate-cart-assignment/static/js/main.c72c88a3.js",
+    "static/js/787.b652780a.chunk.js": "/elevate-cart-assignment/static/js/787.b652780a.chunk.js",
+    "static/media/Banner_5.jpg": "/elevate-cart-assignment/static/media/Banner_5.da8a9b784f8b53593135.jpg",
+    "static/media/Banner_2.jpg": "/elevate-cart-assignment/static/media/Banner_2.de97fcee4d8ece3e5c60.jpg",
+    "static/media/Banner_1.jpg": "/elevate-cart-assignment/static/media/Banner_1.429716ba2cad109c30f3.jpg",
+    "static/media/Banner_3.jpg": "/elevate-cart-assignment/static/media/Banner_3.24ff90e6c7b35ce332e9.jpg",
+    "static/media/Banner_4.jpg": "/elevate-cart-assignment/static/media/Banner_4.29172e957750d5b9088d.jpg",
+    "static/media/no-product-found.png": "/elevate-cart-assignment/static/media/no-product-found.586b20ff4a41075a2c4e.png",
+    "index.html": "/elevate-cart-assignment/index.html",
+    "main.a8cd02ce.css.map": "/elevate-cart-assignment/static/css/main.a8cd02ce.css.map",
+    "main.c72c88a3.js.map": "/elevate-cart-assignment/static/js/main.c72c88a3.js.map",
+    "787.b652780a.chunk.js.map": "/elevate-cart-assignment/static/js/787.b652780a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8cd02ce.css",
+    "static/js/main.c72c88a3.js"
+  ]
+}
